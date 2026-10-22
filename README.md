@@ -39,6 +39,7 @@ Este aplicativo foi desenvolvido para a **Atividade 03** da disciplina de **Prog
 ### Pré-requisitos
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) instalado na sua máquina.
 - Google Chrome instalado ou um emulador Android configurado.
+- https://github.com/Adielsom/CalculadoraJurosComposto.git
 - __________________________
 LiNK para video
 
