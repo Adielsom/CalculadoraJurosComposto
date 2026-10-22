@@ -41,3 +41,5 @@ Este aplicativo foi desenvolvido para a **Atividade 03** da disciplina de **Prog
 - Google Chrome instalado ou um emulador Android configurado.
 - __________________________
 LiNK para video
+
+https://youtu.be/aP9bnnxO-jA
